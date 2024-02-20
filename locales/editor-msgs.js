@@ -23516,7 +23516,7 @@ export default {
     "general.signIn": "로그인",
     "login.needHelp": "도움이 필요한가요?",
     "form.validationRequired": "필수 항목입니다",
-    "gui.menuBar.tutorialsLibrary": "튜토리얼",
+    "gui.menuBar.tutorialsLibrary": "자습서",
     "gui.menuBar.restoreSprite": "스프라이트 되돌리기",
     "gui.menuBar.restoreSound": "소리 되돌리기",
     "gui.menuBar.restoreCostume": "모양 되돌리기",
